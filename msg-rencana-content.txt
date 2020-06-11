@@ -3,7 +3,8 @@ RENCANA KONTEN MESAGI
 - Javascript
   * ES6
   * Framework JS
-   ^ Vuw
+   ^ Vue
+   ^ React
 - Fundamental (Struktur data dasar)
 - PHP Framework
   ^ Laraver
