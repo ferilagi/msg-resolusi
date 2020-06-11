@@ -3,6 +3,9 @@ RENCANA KONTEN MESAGI
 - Javascript
   * ES6
   * Framework JS
+   ^ Vuw
 - Fundamental (Struktur data dasar)
 - PHP Framework
+  ^ Laraver
 - Interview
+- Phyton
